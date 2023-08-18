@@ -34,8 +34,6 @@ button.register:focus:active {
     font-weight: 700;
 }
 
-
-
 .btn-sewa-mobil {
     background-color: #73ca5c;
     font-weight: 700;
@@ -67,7 +65,6 @@ button.register:focus:active {
     position: relative;
     top: -60%;
 }
-
 
 .container-our-services {
     box-sizing: border-box;
@@ -170,7 +167,6 @@ section.testimonial .testi {
     text-align: center;
 }
 
-
 .content {
     font-size: 14px;
 }
@@ -262,9 +258,8 @@ section.testimonial .testi {
     }
 }
 
-
 @media only screen and (max-width:768px) {
-    .single-item {
+    .testi-content {
         padding: 20px;
         text-align: center;
     }
