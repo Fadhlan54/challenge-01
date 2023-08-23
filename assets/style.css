@@ -7,12 +7,6 @@ body {
     font-family: "Helvetica local";
 }
 
-.nav-img {
-    background-color: #0D28A6;
-    height: 30px;
-    width: 85px;
-}
-
 button.register {
     background-color: #73ca5c;
 }
@@ -106,7 +100,6 @@ button.register:focus:active {
 }
 
 .main-section {
-    margin-right: 0 !important;
     padding-right: 0 !important;
 }
 
@@ -215,6 +208,7 @@ section.testimonial .testi {
 .footer {
     font-size: 14px;
     font-weight: 300;
+    margin-bottom: 30px;
 }
 
 .footer ul {
